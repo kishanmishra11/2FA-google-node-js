@@ -1,0 +1,10 @@
+module.exports = {
+    META_STATUS_0 : 0,
+    META_STATUS_1 : 1,
+    SUCCESSFUL : 200,
+    VALIDATION_ERROR : 400,
+    INTERNAL_SERVER_ERROR : 500,
+    ACTIVE:1,
+    INACTIVE:2,
+    DELETED:3
+}
